@@ -14,15 +14,15 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://QmUJXGofcWetNwy37M1wbM4nVmasV8QnVog9QfegLWtqNH/"
-BASE_NAME = "Tangle Dr4gon # "
-BASE_ANIMATION_URL = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA/"
+BASE_IMAGE_URL = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicstatio.com%2Flarge%2Fk89tyq%2F3D-glasses-minimalism-wallpaper.jpg&f=1&nofb=1"
+BASE_ANIMATION = "ipfs://QmWZZDphNuzECycZzaQhtEiEEAsMQ6LCXQ4Qn8d2QKk3kY"
+BASE_NAME = "Tangle Dragon #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "ZenTangle Genesis NFT Card that is part of the ZenTangle Ecosystem. Owners benefit from a series of perks based on the access membership to ZenTangle Ecosystem that will grant access to exclusive “members only” NFT airdrops, future ZenTangle capabilities such as additional digital assets, staking, genesis collection buyer royalty, phygital products, artists identity verification. There are only 100 crowned dragons that come with double rate for the genesis collection buyer royalty.",
+    "description": "",
     "image": BASE_IMAGE_URL,
-    "animation_url": BASE_ANIMATION_URL,
+    "animation_url": BASE_ANIMATION,
     "attributes": [],
 }
 
@@ -96,9 +96,10 @@ def main():
         item_json['name'] = item_json['name'] + str(idx)
 
         # Append image PNG file name to base image path
-        item_json['image'] = item_json['image'] + '/' + str(idx).zfill(zfill_count) + '.png'
+        item_json['image'] = item_json['image']
         
-        item_json['animation_url'] = item_json['animation_url'] + '/' + str(idx).zfill(zfill_count) + '.glb'
+        # Append 3D image GLTF file name to base image path
+        item_json['animation_url'] = item_json['animation_url'] + '/' + str(idx).zfill(zfill_count) + '.gltf'
         
         # Convert pandas series to dictionary
         attr_dict = dict(row)
