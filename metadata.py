@@ -14,13 +14,15 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_IMAGE_URL = "ipfs://QmUJXGofcWetNwy37M1wbM4nVmasV8QnVog9QfegLWtqNH/"
+BASE_NAME = "Tangle Dr4gon # "
+BASE_ANIMATION_URL = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA/"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "ZenTangle Genesis NFT Card that is part of the ZenTangle Ecosystem. Owners benefit from a series of perks based on the access membership to ZenTangle Ecosystem that will grant access to exclusive “members only” NFT airdrops, future ZenTangle capabilities such as additional digital assets, staking, genesis collection buyer royalty, phygital products, artists identity verification. There are only 100 crowned dragons that come with double rate for the genesis collection buyer royalty.",
     "image": BASE_IMAGE_URL,
+    "animation_url": BASE_ANIMATION_URL,
     "attributes": [],
 }
 
@@ -95,6 +97,8 @@ def main():
 
         # Append image PNG file name to base image path
         item_json['image'] = item_json['image'] + '/' + str(idx).zfill(zfill_count) + '.png'
+        
+        item_json['animation_url'] = item_json['animation_url'] + '/' + str(idx).zfill(zfill_count) + '.glb'
         
         # Convert pandas series to dictionary
         attr_dict = dict(row)
