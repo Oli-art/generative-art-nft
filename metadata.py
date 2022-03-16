@@ -14,9 +14,9 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicstatio.com%2Flarge%2Fk89tyq%2F3D-glasses-minimalism-wallpaper.jpg&f=1&nofb=1"
-BASE_ANIMATION = "ipfs://QmWZZDphNuzECycZzaQhtEiEEAsMQ6LCXQ4Qn8d2QKk3kY"
-BASE_NAME = "Tangle Dragon #"
+BASE_IMAGE_URL = "ipfs://QmW3XMdsNznoiPBeYau1Nv6YapygwF6YkuUV9vYpgEc5De.png"
+BASE_ANIMATION = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA.glb"
+BASE_NAME = "Tangle Dr4gon #"
 
 BASE_JSON = {
     "name": BASE_NAME,
@@ -99,7 +99,7 @@ def main():
         item_json['image'] = item_json['image']
         
         # Append 3D image GLTF file name to base image path
-        item_json['animation_url'] = item_json['animation_url'] + '/' + str(idx).zfill(zfill_count) + '.gltf'
+        item_json['animation_url'] = item_json['animation_url'] # + '/' + str(idx).zfill(zfill_count) + '.gltf'
         
         # Convert pandas series to dictionary
         attr_dict = dict(row)
