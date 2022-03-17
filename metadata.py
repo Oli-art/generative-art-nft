@@ -14,13 +14,13 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://QmW3XMdsNznoiPBeYau1Nv6YapygwF6YkuUV9vYpgEc5De.png"
-BASE_ANIMATION = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA.glb"
+BASE_IMAGE_URL = "ipfs://QmUJXGofcWetNwy37M1wbM4nVmasV8QnVog9QfegLWtqNH"
+BASE_ANIMATION = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA"
 BASE_NAME = "Tangle Dr4gon #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "ZenTangle Genesis NFT Card that is part of the ZenTangle Ecosystem. Owners benefit from a series of perks based on the access membership to ZenTangle Ecosystem that will grant access to exclusive \u201cmembers only\u201d NFT airdrops, future ZenTangle capabilities such as additional digital assets, staking, genesis collection buyer royalty, phygital products, artists identity verification. There are only 100 crowned dragons that come with double rate for the genesis collection buyer royalty.",
     "image": BASE_IMAGE_URL,
     "animation_url": BASE_ANIMATION,
     "attributes": [],
