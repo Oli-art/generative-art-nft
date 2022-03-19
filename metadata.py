@@ -14,7 +14,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://QmUJXGofcWetNwy37M1wbM4nVmasV8QnVog9QfegLWtqNH"
+BASE_IMAGE_URL = "ipfs://QmaPoTCGJL1eZLyyanb6e6uae77ntvvtT9gxVJrQvcEFRz"
 BASE_ANIMATION = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA"
 BASE_NAME = "Tangle Dr4gon #"
 
