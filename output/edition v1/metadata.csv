@@ -1,2 +1,2502 @@
-,background,body,eyes,head_gear,clothes,held_item,hands,wristband
-0,white,maroon,standard,std_lord,none,nut,standard,yellow
+,card_material,card_pattern,card_bitpoints,card_drift,card_mana,card_ingot,dragon_allhorns,dragon_wings,dragon_eye_color,dragon_gatget,dragon_skin_texture
+0,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+3,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+4,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+5,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+6,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+7,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+8,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+9,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+10,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+11,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+12,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+13,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+14,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+15,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+16,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+17,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+18,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+19,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+20,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+21,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+22,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+23,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+24,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+25,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+26,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+27,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+28,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+29,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+30,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+31,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+32,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+33,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+34,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+35,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+36,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+37,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+38,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+39,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+40,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+41,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+42,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+43,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+44,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+45,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+46,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+47,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+48,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+49,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+50,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+51,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+52,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+53,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+54,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+55,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+56,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+57,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+58,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+59,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+60,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+61,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+62,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+63,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+64,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+65,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+66,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+67,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+68,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+69,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+70,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+71,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+72,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+73,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+74,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+75,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+76,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+77,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+78,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+79,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+80,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+81,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+82,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+83,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+84,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+85,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+86,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+87,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+88,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+89,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+90,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+91,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+92,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+93,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+94,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+95,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+96,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+97,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+98,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+99,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+100,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+101,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+102,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+103,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+104,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+105,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+106,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+107,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+108,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+109,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+110,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+111,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+112,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+113,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+114,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+115,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+116,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+117,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+118,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+119,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+120,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+121,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+122,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+123,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+124,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+125,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+126,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+127,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+128,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+129,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+130,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+131,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+132,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+133,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+134,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+135,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+136,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+137,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+138,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+139,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+140,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+141,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+142,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+143,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+144,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+145,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+146,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+147,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+148,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+149,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+150,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+151,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+152,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+153,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+154,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+155,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+156,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+157,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+158,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+159,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+160,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+161,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+162,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+163,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+164,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+165,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+166,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+167,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+168,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+169,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+170,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+171,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+172,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+173,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+174,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+175,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+176,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+177,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+178,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+179,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+180,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+181,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+182,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+183,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+184,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+185,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+186,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+187,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+188,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+189,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+190,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+191,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+192,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+193,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+194,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+195,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+196,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+197,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+198,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+199,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+200,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+201,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+202,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+203,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+204,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+205,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+206,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+207,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+208,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+209,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+210,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+211,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+212,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+213,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+214,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+215,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+216,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+217,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+218,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+219,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+220,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+221,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+222,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+223,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+224,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+225,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+226,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+227,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+228,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+229,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+230,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+231,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+232,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+233,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+234,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+235,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+236,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+237,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+238,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+239,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+240,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+241,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+242,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+243,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+244,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+245,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+246,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+247,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+248,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+249,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+250,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+251,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+252,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+253,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+254,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+255,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+256,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+257,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+258,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+259,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+260,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+261,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+262,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+263,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+264,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+265,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+266,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+267,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+268,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+269,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+270,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+271,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+272,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+273,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+274,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+275,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+276,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+277,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+278,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+279,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+280,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+281,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+282,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+283,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+284,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+285,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+286,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+287,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+288,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+289,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+290,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+291,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+292,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+293,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+294,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+295,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+296,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+297,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+298,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+299,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+300,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+301,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+302,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+303,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+304,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+305,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+306,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+307,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+308,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+309,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+310,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+311,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+312,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+313,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+314,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+315,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+316,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+317,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+318,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+319,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+320,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+321,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+322,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+323,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+324,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+325,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+326,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+327,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+328,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+329,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+330,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+331,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+332,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+333,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+334,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+335,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+336,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+337,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+338,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+339,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+340,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+341,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+342,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+343,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+344,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+345,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+346,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+347,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+348,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+349,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+350,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+351,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+352,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+353,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+354,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+355,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+356,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+357,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+358,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+359,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+360,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+361,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+362,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+363,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+364,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+365,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+366,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+367,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+368,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+369,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+370,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+371,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+372,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+373,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+374,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+375,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+376,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+377,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+378,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+379,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+380,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+381,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+382,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+383,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+384,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+385,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+386,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+387,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+388,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+389,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+390,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+391,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+392,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+393,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+394,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+395,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+396,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+397,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+398,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+399,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+400,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+401,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+402,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+403,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+404,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+405,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+406,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+407,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+408,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+409,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+410,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+411,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+412,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+413,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+414,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+415,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+416,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+417,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+418,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+419,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+420,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+421,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+422,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+423,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+424,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+425,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+426,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+427,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+428,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+429,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+430,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+431,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+432,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+433,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+434,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+435,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+436,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+437,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+438,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+439,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+440,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+441,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+442,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+443,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+444,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+445,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+446,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+447,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+448,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+449,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+450,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+451,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+452,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+453,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+454,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+455,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+456,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+457,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+458,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+459,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+460,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+461,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+462,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+463,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+464,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+465,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+466,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+467,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+468,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+469,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+470,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+471,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+472,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+473,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+474,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+475,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+476,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+477,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+478,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+479,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+480,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+481,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+482,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+483,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+484,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+485,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+486,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+487,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+488,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+489,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+490,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+491,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+492,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+493,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+494,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+495,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+496,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+497,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+498,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+499,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+500,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+501,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+502,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+503,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+504,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+505,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+506,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+507,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+508,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+509,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+510,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+511,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+512,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+513,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+514,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+515,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+516,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+517,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+518,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+519,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+520,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+521,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+522,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+523,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+524,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+525,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+526,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+527,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+528,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+529,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+530,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+531,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+532,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+533,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+534,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+535,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+536,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+537,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+538,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+539,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+540,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+541,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+542,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+543,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+544,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+545,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+546,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+547,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+548,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+549,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+550,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+551,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+552,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+553,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+554,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+555,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+556,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+557,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+558,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+559,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+560,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+561,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+562,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+563,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+564,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+565,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+566,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+567,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+568,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+569,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+570,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+571,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+572,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+573,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+574,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+575,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+576,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+577,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+578,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+579,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+580,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+581,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+582,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+583,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+584,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+585,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+586,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+587,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+588,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+589,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+590,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+591,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+592,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+593,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+594,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+595,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+596,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+597,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+598,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+599,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+600,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+601,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+602,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+603,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+604,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+605,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+606,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+607,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+608,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+609,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+610,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+611,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+612,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+613,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+614,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+615,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+616,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+617,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+618,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+619,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+620,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+621,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+622,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+623,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+624,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+625,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+626,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+627,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+628,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+629,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+630,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+631,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+632,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+633,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+634,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+635,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+636,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+637,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+638,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+639,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+640,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+641,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+642,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+643,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+644,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+645,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+646,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+647,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+648,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+649,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+650,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+651,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+652,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+653,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+654,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+655,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+656,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+657,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+658,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+659,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+660,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+661,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+662,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+663,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+664,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+665,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+666,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+667,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+668,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+669,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+670,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+671,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+672,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+673,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+674,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+675,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+676,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+677,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+678,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+679,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+680,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+681,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+682,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+683,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+684,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+685,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+686,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+687,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+688,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+689,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+690,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+691,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+692,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+693,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+694,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+695,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+696,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+697,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+698,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+699,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+700,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+701,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+702,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+703,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+704,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+705,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+706,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+707,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+708,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+709,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+710,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+711,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+712,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+713,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+714,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+715,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+716,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+717,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+718,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+719,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+720,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+721,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+722,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+723,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+724,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+725,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+726,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+727,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+728,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+729,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+730,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+731,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+732,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+733,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+734,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+735,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+736,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+737,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+738,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+739,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+740,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+741,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+742,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+743,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+744,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+745,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+746,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+747,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+748,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+749,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+750,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+751,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+752,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+753,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+754,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+755,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+756,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+757,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+758,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+759,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+760,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+761,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+762,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+763,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+764,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+765,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+766,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+767,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+768,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+769,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+770,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+771,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+772,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+773,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+774,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+775,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+776,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+777,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+778,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+779,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+780,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+781,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+782,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+783,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+784,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+785,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+786,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+787,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+788,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+789,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+790,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+791,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+792,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+793,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+794,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+795,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+796,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+797,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+798,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+799,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+800,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+801,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+802,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+803,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+804,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+805,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+806,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+807,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+808,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+809,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+810,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+811,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+812,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+813,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+814,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+815,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+816,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+817,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+818,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+819,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+820,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+821,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+822,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+823,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+824,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+825,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+826,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+827,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+828,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+829,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+830,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+831,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+832,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+833,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+834,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+835,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+836,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+837,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+838,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+839,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+840,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+841,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+842,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+843,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+844,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+845,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+846,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+847,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+848,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+849,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+850,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+851,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+852,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+853,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+854,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+855,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+856,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+857,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+858,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+859,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+860,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+861,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+862,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+863,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+864,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+865,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+866,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+867,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+868,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+869,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+870,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+871,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+872,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+873,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+874,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+875,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+876,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+877,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+878,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+879,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+880,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+881,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+882,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+883,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+884,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+885,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+886,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+887,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+888,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+889,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+890,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+891,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+892,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+893,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+894,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+895,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+896,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+897,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+898,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+899,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+900,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+901,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+902,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+903,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+904,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+905,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+906,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+907,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+908,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+909,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+910,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+911,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+912,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+913,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+914,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+915,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+916,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+917,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+918,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+919,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+920,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+921,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+922,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+923,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+924,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+925,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+926,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+927,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+928,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+929,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+930,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+931,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+932,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+933,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+934,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+935,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+936,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+937,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+938,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+939,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+940,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+941,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+942,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+943,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+944,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+945,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+946,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+947,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+948,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+949,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+950,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+951,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+952,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+953,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+954,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+955,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+956,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+957,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+958,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+959,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+960,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+961,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+962,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+963,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+964,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+965,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+966,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+967,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+968,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+969,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+970,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+971,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+972,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+973,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+974,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+975,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+976,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+977,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+978,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+979,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+980,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+981,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+982,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+983,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+984,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+985,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+986,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+987,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+988,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+989,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+990,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+991,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+992,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+993,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+994,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+995,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+996,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+997,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+998,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+999,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1000,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1001,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1002,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1003,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1004,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1005,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1006,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1007,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1008,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1009,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1010,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1011,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1012,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1013,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1014,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1015,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1016,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1017,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1018,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1019,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1020,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1021,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1022,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1023,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1024,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1025,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1026,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1027,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1028,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1029,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1030,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1031,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1032,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1033,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1034,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1035,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1036,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1037,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1038,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1039,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1040,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1041,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1042,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1043,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1044,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1045,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1046,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1047,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1048,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1049,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1050,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1051,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1052,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1053,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1054,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1055,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1056,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1057,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1058,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1059,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1060,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1061,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1062,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1063,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1064,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1065,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1066,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1067,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1068,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1069,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1070,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1071,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1072,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1073,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1074,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1075,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1076,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1077,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1078,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1079,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1080,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1081,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1082,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1083,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1084,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1085,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1086,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1087,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1088,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1089,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1090,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1091,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1092,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1093,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1094,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1095,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1096,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1097,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1098,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1099,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1100,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1101,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1102,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1103,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1104,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1105,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1106,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1107,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1108,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1109,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1110,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1111,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1112,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1113,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1114,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1115,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1116,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1117,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1118,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1119,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1120,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1121,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1122,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1123,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1124,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1125,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1126,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1127,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1128,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1129,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1130,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1131,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1132,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1133,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1134,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1135,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1136,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1137,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1138,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1139,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1140,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1141,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1142,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1143,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1144,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1145,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1146,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1147,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1148,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1149,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1150,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1151,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1152,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1153,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1154,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1155,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1156,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1157,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1158,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1159,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1160,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1161,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1162,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1163,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1164,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1165,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1166,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1167,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1168,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1169,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1170,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1171,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1172,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1173,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1174,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1175,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1176,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1177,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1178,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1179,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1180,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1181,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1182,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1183,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1184,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1185,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1186,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1187,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1188,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1189,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1190,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1191,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1192,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1193,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1194,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1195,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1196,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1197,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1198,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1199,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1200,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1201,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1202,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1203,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1204,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1205,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1206,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1207,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1208,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1209,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1210,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1211,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1212,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1213,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1214,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1215,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1216,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1217,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1218,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1219,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1220,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1221,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1222,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1223,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1224,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1225,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1226,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1227,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1228,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1229,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1230,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1231,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1232,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1233,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1234,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1235,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1236,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1237,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1238,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1239,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1240,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1241,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1242,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1243,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1244,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1245,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1246,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1247,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1248,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1249,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1250,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1251,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1252,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1253,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1254,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1255,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1256,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1257,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1258,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1259,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1260,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1261,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1262,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1263,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1264,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1265,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1266,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1267,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1268,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1269,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1270,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1271,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1272,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1273,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1274,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1275,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1276,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1277,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1278,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1279,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1280,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1281,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1282,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1283,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1284,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1285,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1286,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1287,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1288,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1289,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1290,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1291,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1292,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1293,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1294,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1295,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1296,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1297,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1298,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1299,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1300,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1301,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1302,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1303,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1304,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1305,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1306,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1307,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1308,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1309,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1310,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1311,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1312,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1313,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1314,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1315,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1316,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1317,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1318,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1319,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1320,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1321,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1322,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1323,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1324,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1325,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1326,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1327,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1328,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1329,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1330,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1331,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1332,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1333,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1334,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1335,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1336,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1337,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1338,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1339,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1340,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1341,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1342,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1343,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1344,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1345,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1346,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1347,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1348,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1349,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1350,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1351,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1352,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1353,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1354,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1355,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1356,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1357,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1358,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1359,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1360,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1361,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1362,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1363,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1364,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1365,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1366,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1367,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1368,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1369,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1370,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1371,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1372,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1373,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1374,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1375,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1376,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1377,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1378,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1379,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1380,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1381,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1382,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1383,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1384,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1385,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1386,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1387,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1388,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1389,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1390,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1391,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1392,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1393,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1394,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1395,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1396,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1397,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1398,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1399,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1400,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1401,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1402,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1403,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1404,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1405,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1406,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1407,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1408,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1409,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1410,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1411,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1412,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1413,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1414,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1415,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1416,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1417,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1418,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1419,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1420,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1421,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1422,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1423,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1424,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1425,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1426,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1427,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1428,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1429,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1430,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1431,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1432,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1433,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1434,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1435,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1436,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1437,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1438,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1439,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1440,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1441,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1442,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1443,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1444,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1445,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1446,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1447,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1448,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1449,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1450,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1451,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1452,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1453,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1454,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1455,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1456,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1457,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1458,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1459,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1460,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1461,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1462,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1463,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1464,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1465,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1466,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1467,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1468,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1469,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1470,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1471,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1472,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1473,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1474,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1475,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1476,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1477,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1478,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1479,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1480,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1481,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1482,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1483,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1484,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1485,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1486,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1487,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1488,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1489,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1490,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1491,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1492,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1493,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1494,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1495,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1496,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1497,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1498,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1499,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1500,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1501,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1502,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1503,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1504,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1505,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1506,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1507,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1508,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1509,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1510,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1511,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1512,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1513,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1514,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1515,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1516,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1517,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1518,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1519,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1520,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1521,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1522,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1523,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1524,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1525,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1526,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1527,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1528,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1529,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1530,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1531,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1532,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1533,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1534,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1535,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1536,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1537,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1538,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1539,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1540,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1541,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1542,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1543,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1544,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1545,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1546,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1547,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1548,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1549,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1550,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1551,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1552,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1553,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1554,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1555,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1556,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1557,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1558,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1559,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1560,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1561,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1562,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1563,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1564,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1565,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1566,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1567,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1568,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1569,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1570,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1571,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1572,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1573,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1574,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1575,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1576,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1577,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1578,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1579,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1580,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1581,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1582,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1583,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1584,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1585,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1586,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1587,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1588,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1589,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1590,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1591,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1592,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1593,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1594,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1595,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1596,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1597,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1598,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1599,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1600,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1601,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1602,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1603,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1604,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1605,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1606,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1607,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1608,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1609,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1610,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1611,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1612,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1613,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1614,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1615,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1616,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1617,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1618,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1619,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1620,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1621,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1622,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1623,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1624,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1625,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1626,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1627,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1628,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1629,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1630,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1631,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1632,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1633,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1634,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1635,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1636,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1637,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1638,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1639,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1640,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1641,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1642,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1643,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1644,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1645,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1646,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1647,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1648,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1649,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1650,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1651,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1652,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1653,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1654,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1655,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1656,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1657,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1658,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1659,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1660,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1661,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1662,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1663,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1664,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1665,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1666,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1667,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1668,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1669,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1670,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1671,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1672,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1673,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1674,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1675,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1676,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1677,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1678,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1679,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1680,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1681,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1682,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1683,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1684,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1685,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1686,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1687,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1688,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1689,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1690,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1691,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1692,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1693,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1694,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1695,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1696,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1697,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1698,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1699,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1700,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1701,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1702,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1703,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1704,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1705,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1706,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1707,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1708,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1709,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1710,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1711,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1712,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1713,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1714,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1715,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1716,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1717,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1718,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1719,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1720,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1721,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1722,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1723,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1724,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1725,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1726,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1727,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1728,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1729,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1730,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1731,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1732,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1733,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1734,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1735,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1736,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1737,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1738,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1739,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1740,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1741,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1742,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1743,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1744,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1745,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1746,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1747,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1748,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1749,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1750,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1751,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1752,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1753,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1754,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1755,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1756,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1757,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1758,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1759,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1760,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1761,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1762,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1763,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1764,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1765,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1766,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1767,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1768,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1769,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1770,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1771,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1772,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1773,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1774,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1775,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1776,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1777,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1778,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1779,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1780,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1781,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1782,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1783,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1784,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1785,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1786,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1787,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1788,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1789,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1790,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1791,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1792,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1793,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1794,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1795,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1796,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1797,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1798,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1799,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1800,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1801,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1802,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1803,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1804,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1805,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1806,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1807,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1808,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1809,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1810,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1811,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1812,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1813,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1814,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1815,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1816,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1817,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1818,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1819,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1820,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1821,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1822,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1823,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1824,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1825,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1826,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1827,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1828,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1829,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1830,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1831,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1832,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1833,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1834,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1835,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1836,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1837,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1838,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1839,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1840,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1841,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1842,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1843,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1844,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1845,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1846,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1847,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1848,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1849,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1850,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1851,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1852,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1853,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1854,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1855,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1856,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1857,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1858,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1859,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1860,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1861,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1862,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1863,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1864,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1865,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1866,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1867,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1868,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1869,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1870,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1871,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1872,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1873,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1874,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1875,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1876,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1877,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1878,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1879,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1880,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1881,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1882,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1883,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1884,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1885,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1886,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1887,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1888,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1889,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1890,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1891,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1892,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1893,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1894,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1895,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1896,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1897,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1898,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1899,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1900,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1901,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1902,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1903,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1904,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1905,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1906,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1907,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1908,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1909,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1910,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1911,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1912,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1913,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1914,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1915,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1916,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1917,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1918,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1919,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1920,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1921,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1922,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1923,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1924,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1925,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1926,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1927,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1928,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1929,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1930,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1931,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1932,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1933,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1934,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1935,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1936,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1937,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1938,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1939,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1940,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1941,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1942,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1943,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1944,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1945,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1946,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1947,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1948,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1949,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1950,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1951,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1952,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1953,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1954,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1955,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1956,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1957,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1958,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1959,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1960,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1961,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1962,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1963,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1964,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1965,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1966,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1967,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1968,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1969,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1970,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1971,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1972,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1973,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1974,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1975,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1976,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1977,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1978,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1979,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1980,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1981,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1982,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1983,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1984,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1985,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1986,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1987,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1988,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1989,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1990,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+1991,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+1992,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+1993,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+1994,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+1995,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+1996,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+1997,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+1998,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+1999,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2000,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2001,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2002,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2003,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2004,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2005,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2006,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2007,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2008,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2009,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2010,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2011,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2012,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2013,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2014,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2015,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2016,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2017,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2018,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2019,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2020,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2021,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2022,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2023,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2024,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2025,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2026,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2027,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2028,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2029,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2030,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2031,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2032,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2033,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2034,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2035,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2036,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2037,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2038,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2039,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2040,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2041,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2042,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2043,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2044,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2045,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2046,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2047,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2048,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2049,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2050,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2051,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2052,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2053,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2054,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2055,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2056,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2057,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2058,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2059,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2060,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2061,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2062,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2063,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2064,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2065,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2066,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2067,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2068,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2069,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2070,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2071,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2072,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2073,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2074,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2075,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2076,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2077,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2078,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2079,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2080,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2081,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2082,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2083,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2084,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2085,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2086,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2087,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2088,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2089,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2090,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2091,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2092,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2093,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2094,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2095,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2096,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2097,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2098,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2099,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2100,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2101,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2102,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2103,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2104,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2105,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2106,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2107,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2108,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2109,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2110,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2111,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2112,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2113,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2114,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2115,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2116,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2117,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2118,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2119,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2120,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2121,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2122,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2123,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2124,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2125,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2126,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2127,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2128,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2129,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2130,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2131,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2132,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2133,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2134,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2135,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2136,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2137,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2138,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2139,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2140,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2141,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2142,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2143,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2144,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2145,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2146,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2147,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2148,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2149,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2150,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2151,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2152,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2153,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2154,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2155,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2156,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2157,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2158,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2159,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2160,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2161,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2162,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2163,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2164,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2165,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2166,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2167,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2168,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2169,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2170,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2171,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2172,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2173,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2174,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2175,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2176,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2177,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2178,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2179,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2180,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2181,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2182,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2183,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2184,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2185,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2186,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2187,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2188,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2189,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2190,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2191,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2192,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2193,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2194,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2195,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2196,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2197,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2198,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2199,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2200,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2201,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2202,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2203,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2204,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2205,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2206,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2207,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2208,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2209,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2210,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2211,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2212,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2213,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2214,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2215,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2216,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2217,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2218,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2219,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2220,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2221,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2222,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2223,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2224,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2225,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2226,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2227,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2228,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2229,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2230,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2231,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2232,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2233,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2234,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2235,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2236,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2237,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2238,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2239,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2240,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2241,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2242,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2243,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2244,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2245,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2246,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2247,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2248,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2249,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2250,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2251,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2252,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2253,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2254,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2255,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2256,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2257,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2258,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2259,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2260,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2261,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2262,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2263,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2264,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2265,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2266,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2267,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2268,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2269,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2270,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2271,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2272,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2273,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2274,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2275,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2276,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2277,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2278,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2279,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2280,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2281,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2282,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2283,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2284,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2285,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2286,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2287,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2288,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2289,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2290,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2291,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2292,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2293,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2294,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2295,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2296,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2297,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2298,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2299,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2300,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2301,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2302,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2303,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2304,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2305,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2306,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2307,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2308,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2309,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2310,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2311,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2312,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2313,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2314,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2315,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2316,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2317,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2318,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2319,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2320,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2321,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2322,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2323,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2324,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2325,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2326,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2327,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2328,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2329,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2330,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2331,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2332,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2333,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2334,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2335,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2336,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2337,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2338,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2339,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2340,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2341,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2342,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2343,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2344,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2345,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2346,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2347,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2348,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2349,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2350,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2351,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2352,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2353,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2354,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2355,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2356,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2357,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2358,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2359,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2360,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2361,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2362,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2363,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2364,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2365,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2366,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2367,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2368,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2369,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2370,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2371,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2372,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2373,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2374,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2375,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2376,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2377,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2378,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2379,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2380,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2381,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2382,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2383,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2384,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2385,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2386,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2387,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2388,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2389,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2390,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2391,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2392,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2393,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2394,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2395,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2396,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2397,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2398,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2399,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2400,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2401,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2402,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2403,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2404,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2405,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2406,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2407,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2408,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2409,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2410,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2411,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2412,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2413,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2414,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2415,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2416,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2417,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2418,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2419,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2420,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2421,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2422,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2423,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2424,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2425,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2426,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2427,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2428,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2429,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2430,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2431,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2432,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2433,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2434,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2435,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2436,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2437,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2438,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2439,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2440,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2441,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2442,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2443,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2444,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2445,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2446,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2447,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2448,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2449,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2450,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2451,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2452,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2453,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2454,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2455,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2456,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2457,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2458,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2459,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2460,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2461,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2462,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2463,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2464,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2465,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2466,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2467,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2468,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2469,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2470,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2471,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2472,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2473,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2474,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2475,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2476,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2477,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2478,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2479,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2480,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2481,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2482,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2483,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2484,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2485,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2486,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2487,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2488,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2489,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2490,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2491,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
+2492,Gold,Candy,720,60,6,4,Bone,Yellow,Green & Blue,Crown,Purple
+2493,Platinum,Hexagon Grid,864,48,4,3,Bone,Pink,Black,Crown,Red
+2494,Gold,Pixel Gradient,720,60,6,4,Rainbow,Yellow,Brown,ZENT Token Platinum,Purple
+2495,Gold,Candy,576,72,2,3,Gold,Green,Black,ZENT Token Titanium,Green
+2496,Gold,Kevlar,720,60,4,3,Bone,Red,Brown,ZENT Token Gold,Red
+2497,Titanium,Pixel Gradient,864,48,6,4,Rainbow,Pink,Green & Blue,Crown,Blue
+2498,Gold,Kevlar,720,60,4,3,Gold,Orange,Black,ZENT Token Platinum,Red
+2499,Platinum,Hexagon Grid,576,72,2,4,Bone,Yellow,Brown,ZENT Token Titanium,Dark
+2500,Platinum,Hairy,720,72,4,2,Rainbow,Red,Brown,ZENT Token Gold,Red
