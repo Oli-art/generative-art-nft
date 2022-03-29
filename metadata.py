@@ -16,11 +16,11 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 # Base metadata. MUST BE EDITED.
 BASE_IMAGE_URL = "ipfs://QmaPoTCGJL1eZLyyanb6e6uae77ntvvtT9gxVJrQvcEFRz"
 BASE_ANIMATION = "ipfs://QmYYvrH6QkzCjmUeL6ne5DpBvuLyGC3zpfb4Hen6Pq9chA"
-BASE_NAME = "Tangle Dr4gon #"
+BASE_NAME = "Tangle Dragon Genesis Card #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "ZenTangle Genesis NFT Card that is part of the ZenTangle Ecosystem. Owners benefit from a series of perks based on the access membership to ZenTangle Ecosystem that will grant access to exclusive \u201cmembers only\u201d NFT airdrops, future ZenTangle capabilities such as additional digital assets, staking, genesis collection buyer royalty, phygital products, artists identity verification. There are only 100 crowned dragons that come with double rate for the genesis collection buyer royalty.",
+    "description": "Tangle Dragons Genesis NFT Cards are the first oficial collection of the Zentangle Ecosystem. The owners of this collection (a.k.a. NFT hodlers) benefit from a series of perks based on the access membership to Zentangle Ecosystem that will grant access to exclusive members only NFT airdrops, future ZenTangle capabilities such as additional digital assets, staking, genesis collection buyer royalty, phy-gital products, artists identity verification. The Genesis NFT Cards Sale come with a special feature for first buyers; the so called First Buyer Collection Royalty. This royalty takes into account the relation between the NFT rarity points and the collection rarity points spread between available NFTs from the collection. Different gadgets, characteristics, materials, and combinations define the rarity points of each Tangle Dragon.",
     "image": BASE_IMAGE_URL,
     "animation_url": BASE_ANIMATION,
     "attributes": [],
@@ -47,6 +47,22 @@ def clean_attributes(attr_name):
     
     clean_name = ''.join(clean_name)
     return clean_name
+
+    # Function to convert snake case to sentence case
+def clean_value(value):
+    
+    if not isinstance(value, str):
+        return value
+    
+    clean_value = value.replace('_', ' ')
+    clean_value = list(clean_value)
+    
+    for idx, ltr in enumerate(clean_value):
+        if (idx == 0) or (idx > 0 and clean_value[idx - 1] == ' '):
+            clean_value[idx] = clean_value[idx].upper()
+    
+    clean_value = ''.join(clean_value)
+    return clean_value
 
 
 # Function to get attribure metadata
@@ -89,6 +105,8 @@ def main():
     
     for idx, row in progressbar(df.iterrows()):    
     
+        idx = idx + 1
+        
         # Get a copy of the base JSON (python dict)
         item_json = deepcopy(BASE_JSON)
         
@@ -106,9 +124,7 @@ def main():
         
         # Add all existing traits to attributes dictionary
         for attr in attr_dict:
-            
-            if attr_dict[attr] != 'none':
-                item_json['attributes'].append({ 'trait_type': attr, 'value': attr_dict[attr] })
+            item_json['attributes'].append({ 'trait_type': attr, 'value': clean_value(attr_dict[attr]) })
         
         # Write file to json folder
         item_json_path = os.path.join(json_path, str(idx))
